@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MultimediaGallery>
+  <file type="video">
+    <thumb>https://learnbook2.ph.learnbook.com.au/pluginfile.php/567/mod_videogallery/vidpix/0/courseimage.jpg</thumb>
+    <source>https://learnbook2.ph.learnbook.com.au/pluginfile.php/567/mod_videogallery/vidfiles/0/LGG5.mp4</source>
+    <description>text</description>
+  </file>
+  <file type="video">
+    <thumb>https://learnbook2.ph.learnbook.com.au/pluginfile.php/567/mod_videogallery/vidpix/0/large_australia.jpg</thumb>
+    <source>https://learnbook2.ph.learnbook.com.au/pluginfile.php/567/mod_videogallery/vidfiles/0/Microsoft HoloLens - Official Announcement Trailer (HD).mp4</source>
+    <description>text</description>
+  </file>
+</MultimediaGallery>

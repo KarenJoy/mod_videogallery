@@ -1,0 +1,91 @@
+		    audio {
+		        vertical-align: bottom;
+		        width: 10em;
+		    }
+		    video {
+		        max-width: 100%;
+		        vertical-align: top;
+		    }
+		    input {
+		        border: 1px solid #d9d9d9;
+		        border-radius: 1px;
+		        font-size: 2em;
+		        margin: .2em;
+		        width: 30%;
+		    }
+		    p,
+		    .inner {
+		        padding: 1em;
+		    }
+		    
+		    label {
+		        display: inline-block;
+		        width: 8em;
+		    }
+		  
+        #container {
+          display: flex;
+        }
+        #videoscreen {
+          width: 50%; 
+          background:black;         
+        }
+        #script {
+          flex: 1;          
+        }
+
+        .forminput{
+        	    border: 1px solid #000000;
+		        border-radius: 4px;
+			    font-size: 14px;
+			    margin: 0.2em;
+			    width: 31%;
+			    height: 31px;
+		}
+		.formupload {
+        	    border: 1px solid #FFFFFF;
+			    border-radius: 4px;
+			    font-size: 14px;
+			    /* margin: 0.2em; */
+			    width: 32%;
+			    height: 33px;
+			    margin-left: 45%;
+			    margin-top: -23px;
+			    color: #d9d9d9;
+		}
+				
+
+
+        .recordrtc button {
+            font-size: inherit;
+        }
+        
+        .recordrtc button, .recordrtc select {
+            vertical-align: middle;
+		    border-radius: 4px;
+		    padding: 3px 5px;
+		    font-size: 15px;
+		    margin-bottom: 5px;
+		    text-align: center;
+        }
+        
+        .recordrtc, .recordrtc .header {
+            display: block;
+            text-align: center;
+            padding-top: 0;
+        }
+        .recordform {
+            display: block;
+            text-align: left;
+            padding-top: 0;
+        }
+        
+        
+        
+        .recordrtc video {
+            width: 100%;
+        }
+        
+        .recordrtc option[disabled] {
+            display: none;
+        }
